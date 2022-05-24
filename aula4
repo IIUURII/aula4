@@ -1,0 +1,20 @@
+para inserirmos objetos em uma lista 
+função  insert()
+função append()
+variavel.insert(indice,objeto)
+variavel.append(objeto)
+dadas duas  lista,xey, a sintaxe para unisr a segunda lista a primeira e
+x.extend(Y)
+indicado que os obejto de y serão todos indicados indicados ao final da lista x,
+função remoi()
+ funçãopop()
+palavra reservada del;e
+função claer
+a função remove()
+variavel.remove(objeto)
+função pop()
+varivel.pop(indice)
+a palavra  resevada del 
+del variavel[indice]a função clear()
+variavel.clear()
+a  função sort () realizada a ordenção direta ou inversa dos objetos de uma list,sejam 
